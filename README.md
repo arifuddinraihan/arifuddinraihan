@@ -9,8 +9,6 @@ arifuddinraihan/arifuddinraihan is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/arifuddinraihan"><img src="https://api.daily.dev/devcards/6c919b9cd71b458e9e989f2c242390d7.png?r=0xx" width="400" alt="Arif Uddin Raihan's Dev Card"/></a>
-
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=arifuddinraihan&theme=dark&hide_border=true&border_radius=5&fire=C5E22E&ring=47DD50&dates=71DD8B&stroke=59CBDD&currStreakLabel=59CBDD&sideNums=3CC62CE5&sideLabels=59CBDD" />
 </p>
